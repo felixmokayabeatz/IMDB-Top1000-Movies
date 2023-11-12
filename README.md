@@ -28,3 +28,39 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+
+## ENGLISH  ##
+
+## IMDB-Top1000-Movies 👍👍
+* This project is part of the course Problem Solving in Information Technology (PSIT).
+Faculty of Information Technology King Mongkut's Institute, Ladkrabang
+
+* This project involves doing Data Analysis. We chose IMDB Top 1000 Films (2006-2016) for this project.
+
+* We analyzed 1000 movies from IMDB's top movie rankings.
+
+* We want to know Which English word was used most in movie synopsis from 2006-2016 (1000 movies)?
+
+* We want to know Ratings and voting results Does it affect the income of each type of movie?
+
+* We want to know In movies from 2006-2016 (1000 movies), which type of movies did audiences like the most?
+
+* We want to know In the most popular movies from 2006-2016 (1000 movies), what is the length of each movie type? Which type is the least?
+
+* We want to know Directors who directed all the most popular films from 2006 - 2016 (1000 films). Who directed the most?
+
+* Using data from: https://www.kaggle.com/PromptCloudHQ/imdb-data/data Data size 302.51 KB
+
+* Results can be viewed at website: https://peetck.github.io/IMDB-Top1000-Movies/ or https://www.youtube.com/watch?v=bTSjrqIYCpA
+           
+## Group Members
+  |<img src="https://avatars1.githubusercontent.com/u/42176460?s=460&v=4" width="120px" height="120px">|<img src="docs/assets/team/04 .jpg" width="120px" height="120px">|<img src="docs/assets/team/03.jpg" width="120px" height="120px">|<img src="docs/assets /team/02.jpg" width="120px" height="120px">|
+|:---:|:---:|:---:|:---:|
+|[peetck](https://github.com/peetck)|[thangmo29](https://github.com/thangmo29)|[KISSADAPA](https://github.com/KISSADAPA)|[blackjokerr]( https://github.com/blackjokerrr)|Saran<br>Yantabut|Woraphat<br>Phattharamethawarakul|Kritsadapa<br>Nguanjarn|Sirawit<br>Yodjit|
+
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
